@@ -4,11 +4,13 @@
 #### Цель игры:
 Продержаться как можно дольше и собирать коины, уворачиваясь от препятсвий меняя гравитацию своего падения.
 
-### Реализованный магазин игровых улучшений
+## Реализованный магазин игровых улучшений
+* #### Пользовательское взаимодействие с UI
 ![alt text](https://raw.githubusercontent.com/DanielGDS/TheSlikyBall/master/Screenshots/Shop1.png)
-### Реализованный магазин внутриигровых покупок
+## Реализованный магазин внутриигровых покупок
+* #### Разработан единный стиль карточек игры
 ![alt text](https://raw.githubusercontent.com/DanielGDS/TheSlikyBall/master/Screenshots/Shop2.png)
-### Реализация основная игровой зоны
+## Реализация основная игровой зоны
 ![alt text](https://raw.githubusercontent.com/DanielGDS/TheSlikyBall/master/Screenshots/Gameplay.png)
 
 # В прототип включены:
