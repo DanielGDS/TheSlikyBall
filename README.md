@@ -10,7 +10,7 @@
 ## Реализованный магазин внутриигровых покупок
 * #### Разработан единный стиль карточек игры
 ![alt text](https://raw.githubusercontent.com/DanielGDS/TheSlikyBall/master/Screenshots/Shop2.png)
-## Реализация основная игровой зоны
+## Реализация основной игровой зоны
 ![alt text](https://raw.githubusercontent.com/DanielGDS/TheSlikyBall/master/Screenshots/Gameplay.png)
 
 # В прототип включены:
