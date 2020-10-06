@@ -1,5 +1,12 @@
 # TheSlikyBall
-Код из рабочего 2D прототипа мобильного гипер-казуального "Бесконечного Раннера"
+Код из рабочего 2D прототипа и вся графика, мобильного гипер-казуального "Бесконечного Раннера".
+
+## Основная игровая зона
+![alt text](https://raw.githubusercontent.com/DanielGDS/TheSlikyBall/master/Screenshots/Gameplay.png)
+## Магазин улучшений
+![alt text](https://raw.githubusercontent.com/DanielGDS/TheSlikyBall/master/Screenshots/Shop1.png)
+## Магазин внутриигровых покупок
+![alt text](https://raw.githubusercontent.com/DanielGDS/TheSlikyBall/master/Screenshots/Shop2.png)
 
 В прототип включены:
 * нарисованые спрайты/иконки/изображения/вся рабочая графика игры.
